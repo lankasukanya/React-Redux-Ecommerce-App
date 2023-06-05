@@ -1,7 +1,7 @@
 import React from 'react';
 
-const Header=()=>{
-    return(
+const Header = () => {
+    return (
         <div className='ui fixed menu'>
             <div className='ui container center'>
                 <h2>Shop Today</h2>
